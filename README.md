@@ -14,8 +14,7 @@ Deploying OpenVAS vulnerability management in VirtualBox
 - [**(UPDATING)** Scanning VM for Vulnerabilities with OpenVAS using VirtualBox](https://github.com/V-Le/OpenVAS-Scanning-Lab)
 
 <h2>🧑🏽‍💻 Frontend Projects:</h2>
-  - [Game](https) [Demo](https)
-  - [Game](https) [Demo](https)
+
   - [Validation Form](https://github.com/V-Le/validation-form) [Demo](https://v-le.github.io/validation-form/)
   - [Book Library](https://github.com/V-Le/book-library) [Demo](https://v-le.github.io/book-library/)
   - [Todo List](https://github.com/V-Le/todo-list) [Demo](https://v-le.github.io/todo-list/)
