@@ -13,13 +13,15 @@ Implementing a Security Operations Center (SOC) / Honeynet from scratch using Mi
 Deploying OpenVAS vulnerability management in VirtualBox
 - [**(UPDATING)** Scanning VM for Vulnerabilities with OpenVAS using VirtualBox](https://github.com/V-Le/OpenVAS-Scanning-Lab)
 
-<h2>🧑🏽‍💻 Frontend Projects:</h2>
+<h2>🧑🏽‍💻 Frontend & Programming Projects:</h2>
 
   - [Validation Form](https://github.com/V-Le/validation-form) [Demo](https://v-le.github.io/validation-form/)
   - [Book Library](https://github.com/V-Le/book-library) [Demo](https://v-le.github.io/book-library/)
   - [Todo List](https://github.com/V-Le/todo-list) [Demo](https://v-le.github.io/todo-list/)
   - [Etch-a-Sketch](https://github.com/V-Le/etch-a-sketch) [Demo](https://v-le.github.io/etch-a-sketch/)
   - [Tic-Tac-Toe Game](https://github.com/V-Le/tictactoe) [Demo](https://v-le.github.io/tictactoe/)
+  - [Python Coding](https://github.com/V-Le/Coding-Puzzle-Practices)
+  - [Recreate Google Homepage](https://github.com/V-Le/google-homepage) [Demo](https://v-le.github.io/google-homepage/)
 
 <h2> 🤳 Connect with me! </h2>
 
