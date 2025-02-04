@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/1DDZ4Ui.png" height="5%" width="15%" alt="Microsoft Azure"/>
 
 Implementing a Security Operations Center (SOC) / Honeynet from scratch using Microsoft Azure
-  - [**(UPDATING)** Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/V-Le)
+  - [**(UPDATING)** Building and Configuring a LIVE SOC / Honeynet using Azure](https://github.com/V-Le/soc-honeynet)
 
 ---
 
